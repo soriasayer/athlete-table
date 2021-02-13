@@ -26,4 +26,3 @@ You can access a deployed version from [this link](http://athlete-table.surge.sh
 * The npm package `react-table-hoc-draggable-columns` does not have TypeScript types therefore it is being ignored 
 * The console warnings are from inside the `react-table-hoc-draggable-columns` package. If time would allow, I would create the column draggable feature using `react-beautiful-dnd`
 * I have not considered using Redux to keep it simple
-* I haven't spend time on designing it as I am in the interview process with a few other companies and didn't have much time
