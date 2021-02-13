@@ -15,9 +15,10 @@ const Table = ({data, columns, draggableColumns}: any) => {
         className="draggable-table"
         columns={columns}
         data={data}
+        filterable
         showPagination={true}
         draggableColumns={{
-          mode: "swap",
+          mode: "reorder",
           draggable: draggableColumns,
           enableColumnWideDrag: false,
         }}
