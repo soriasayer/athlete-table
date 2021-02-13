@@ -1,4 +1,13 @@
-# Instructions for checking the project
+# Overview
+I have used `react-table` and an npm package that is just an HOC (higher order component) for `react-table` which adds column draggable feature to it. This codling challenge has the following features:
+
+## Features:
+
+-  Sorting data by one or multiple columns by holding the shift key
+-  Change the position of the columns by dragging and dropping it
+-  Resizing the column width
+-  Filtering data by each column
+-  Pagination
 
 ## Run it locally
 Execute the following commands on your terminal
