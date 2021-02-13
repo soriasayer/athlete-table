@@ -10,7 +10,7 @@ npm start
 ```
 
 ## Check it online
-You can access a deployed version from [this link](athlete-table.surge.sh)
+You can access a deployed version from [this link](http://athlete-table.surge.sh/)
 
 # Notes: 
 * The base URL can be moved to .env file
